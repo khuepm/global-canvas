@@ -1,0 +1,47 @@
+.tour-callout {
+  display: inline-block;
+  position: absolute;
+  width: 170px;
+  height: 112px;
+}
+
+.tour-callout .callout-container {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 17px 23px 17px 17px;
+  box-sizing: border-box;
+  height: 112px;
+  border-radius: 15px;
+}
+
+.tour-callout .callout-container h3 {
+  margin: 0;
+  font-family: Messina Sans, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  padding-bottom: 11px;
+}
+
+.tour-callout .callout-container table {
+  margin: 0;
+  width: 100%;
+  font-family: Messina Sans, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000;
+  border-spacing: 0;
+}
+
+.tour-callout .callout-container td {
+  padding: 0;
+  text-align: right;
+}
+
+.tour-callout .callout-container td:first-child {
+  text-align: left;
+  color: rgba(0, 0, 0, 0.6);
+}

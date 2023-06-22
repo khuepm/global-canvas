@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico City",
+        "employees": 76,
+        "bigfoot_tours_sold": 5456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.140625,
+          19.435514339097825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austin",
+        "employees": 54,
+        "bigfoot_tours_sold": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.734375,
+          30.259067203213018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany",
+        "employees": 34,
+        "bigfoot_tours_sold": 456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80615234375,
+          42.66628070564928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle",
+        "employees": 41,
+        "bigfoot_tours_sold": 789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3876953125,
+          47.57652571374621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Paul",
+        "employees": 32,
+        "bigfoot_tours_sold": 3424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1201171875,
+          44.96479793033101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denver",
+        "employees": 65,
+        "bigfoot_tours_sold": 1234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99633789062499,
+          39.73253798438173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Orleans",
+        "employees": 61,
+        "bigfoot_tours_sold": 5555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.06591796875,
+          29.964452850852005
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.pin-callout {
+  display: inline-block;
+  position: absolute;
+  width: 42px;
+  height: 60px;
+  pointer-events: all;      }
+
+.pin-callout .callout-container {
+  display: inline-block;
+  position: absolute;
+  width: 42px;
+  height: 60px;
+  transition: transform 0.2s ease;
+  transform-origin: bottom center;
+}
+
+.pin-callout .callout-container::after {
+  display: block;
+  content: "";
+  position: absolute;
+  width: 42px;
+  height: 60px;
+  transform-origin: bottom center;
+  transform: scale(0.9);
+  background: url(../assets/pin.png);
+  transition: transform 0.2s ease;
+}
+
+.pin-callout:hover .callout-container::after {
+  transform: scale(1.0);
+}
+
+.pin-callout.hidden .callout-container {
+  transform: scale(0);
+}

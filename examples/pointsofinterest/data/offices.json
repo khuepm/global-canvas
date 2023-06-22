@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico City",
+        "bigfoot_sightings": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.140625,
+          19.435514339097825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austin",
+        "bigfoot_sightings": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.734375,
+          30.259067203213018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany",
+        "bigfoot_sightings": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80615234375,
+          42.66628070564928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle",
+        "bigfoot_sightings": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3876953125,
+          47.57652571374621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Paul",
+        "bigfoot_sightings": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1201171875,
+          44.96479793033101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denver",
+        "bigfoot_sightings": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99633789062499,
+          39.73253798438173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Orleans",
+        "bigfoot_sightings": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.06591796875,
+          29.964452850852005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago",
+        "bigfoot_sightings": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6640625,
+          -33.504759069226075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio De janeiro",
+        "bigfoot_sightings": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1103515625,
+          -22.836945920943844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stockholm",
+        "bigfoot_sightings": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.017578125,
+          59.28833169203345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monaco",
+        "bigfoot_sightings": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3828125,
+          43.723474896114794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Town",
+        "bigfoot_sightings": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.193359375,
+          -33.797408767572485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Delhi",
+        "bigfoot_sightings": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.23388671874999,
+          28.5941685062326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo",
+        "bigfoot_sightings": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658203125,
+          35.53222622770337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney",
+        "bigfoot_sightings": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99609375,
+          -33.9433599465788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington",
+        "bigfoot_sightings": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77050781249997,
+          -41.310823880918186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honolulu",
+        "bigfoot_sightings": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          202.137451171875,
+          21.309846141087192
+        ]
+      }
+    }
+  ]
+}

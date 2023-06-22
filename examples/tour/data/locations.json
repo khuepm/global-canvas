@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 129,
+        "name": "Seatle, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36572265625,
+          47.56170075451973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 34,
+        "name": "Medellin, Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673828125,
+          6.227933930268672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 290,
+        "name": "Patagona, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.927734375,
+          -53.199451902831555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 21,
+        "name": "Skeleton Coast, Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2879638671875,
+          -20.380676178614422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 421,
+        "name": "Umea, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2587890625,
+          63.8309797153825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 659,
+        "name": "Kathmandu, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3253173828125,
+          27.69325634309158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 349,
+        "name": "Mt. Yubari, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.261962890625,
+          43.104993581605505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 453,
+        "name": "Queenstown, New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.72802734375,
+          -44.995882618165446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 29,
+        "name": "Southwest National Park, Tasmania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.436767578125,
+          -43.06888777416961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 6,
+        "name": "Papeete, French Polonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          210.4005432128906,
+          -17.560246503294888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 801,
+        "name": "Oslo, Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711669921874998,
+          59.91648345450877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bigfootSightings": 567,
+        "name": "Reykjavik, Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.939697265625,
+          64.13697331073217
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "globekit-public",
+  "version": "1.0.6",
+  "description": "GlobeKit Public Package",
+  "main": "globekit.esm.js",
+  "scripts": {
+  },
+  "author": "pete@rallyinteractive.com",
+  "license": "LicenseRef-LICENSE",
+  "dependencies": {
+
+  }
+}

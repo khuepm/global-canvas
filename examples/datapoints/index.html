@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+
+    <link rel="stylesheet" href="./css/globe.css">
+    <script type="module" src="./js/datapoints.js"></script>
+  </head>
+  <body>
+    <div id="globekit-container">
+      <canvas id="globekit-canvas"></canvas>
+    </div>
+    <script type="module">
+      import {MyGlobeKit} from './js/datapoints.js'
+      const canvas = document.getElementById('globekit-canvas');
+
+      const gk = new MyGlobeKit(canvas);
+    </script>
+  </body>
+</html>

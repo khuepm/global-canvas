@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    
+    <link rel="stylesheet" href="./css/globe.css">
+    <link rel="stylesheet" href="./css/pin-callout.css">
+    <link rel="stylesheet" href="./css/detail-callout.css">
+
+    <script type="module" src="./js/POIGlobe.js"></script>
+  </head>
+  <body>
+    <div id="globekit-container">
+      <canvas id="globekit-canvas"></canvas>
+      <div id="callout-container"></div>
+    </div>
+  </body>
+  <script type="module">
+    import { POIGlobe } from './js/POIGlobe.js';
+
+    const canvas = document.getElementById('globekit-canvas');
+    const calloutContainer = document.getElementById('callout-container');
+    window.globe = new POIGlobe(canvas, calloutContainer);
+  </script>
+</html>
